@@ -1,0 +1,35 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+.genero-container {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  background-color: #f8f8f8;
+}
+
+.genero {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.pelicula {
+  max-width: 175px;
+  margin: 10px 0;
+}
+
+.poster {
+  max-width: 100%;
+}
+
+.titulo {
+  font-weight: bold;
+}
